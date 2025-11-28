@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223421032402",
+    "project_id": "miscursoscrud-firebase",
+    "storage_bucket": "miscursoscrud-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223421032402:android:287485bb9e750ba27a4a0b",
+        "android_client_info": {
+          "package_name": "com.miempresa.miscursoscrud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhY2Gz8O5TpHnHx7ybOBYTdLWsc0beNwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
